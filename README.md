@@ -24,6 +24,4 @@ Serve un hosting HTTPS (ad esempio GitHub Pages) oppure un server locale. Aprire
 3. Le foto sono locali al browser/dispositivo e possono essere rimosse se l'utente cancella i dati del sito o il browser libera lo spazio.
 4. Per usare fotocamera e notifiche, il sito deve essere servito via HTTPS (o localhost).
 
-## Pubblicazione su GitHub Pages
 
-Carica tutti i file della cartella nella root della repository e abilita GitHub Pages dalle impostazioni del repository. Non serve una build React: è una PWA statica.
